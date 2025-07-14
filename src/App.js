@@ -1,10 +1,10 @@
 import "./App.css";
-import Todo from "./components/Todo";
+import TaskManager from "./components/TaskManager";
 
 function App() {
   return (
     <div className="App">
-      <Todo></Todo>
+      <TaskManager />
     </div>
   );
 }
